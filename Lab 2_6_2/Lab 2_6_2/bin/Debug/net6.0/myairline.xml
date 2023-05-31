@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAirline xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Airline>
+    <destination>London</destination>
+    <flightNumber>2361</flightNumber>
+    <aircraft>Boeing 747</aircraft>
+  </Airline>
+  <Airline>
+    <destination>London</destination>
+    <flightNumber>3131</flightNumber>
+    <aircraft>Airbus 380</aircraft>
+  </Airline>
+  <Airline>
+    <destination>Kyiv</destination>
+    <flightNumber>3135</flightNumber>
+    <aircraft>Boeing 737</aircraft>
+  </Airline>
+  <Airline>
+    <destination>Lviv</destination>
+    <flightNumber>3431</flightNumber>
+    <aircraft>Cessna 345</aircraft>
+  </Airline>
+  <Airline>
+    <destination>Berlin</destination>
+    <flightNumber>6273</flightNumber>
+    <aircraft>Boeing 747</aircraft>
+  </Airline>
+</ArrayOfAirline>
